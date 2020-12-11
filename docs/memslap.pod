@@ -1,3 +1,5 @@
+=encoding utf8
+
 =head1 NAME
 
 memslap - Load testing and benchmarking tool for memcached
